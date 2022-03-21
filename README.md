@@ -13,5 +13,5 @@ The method will be evaluated using point process methodologies [see 4] to compar
 ## References
 [1] Yamamoto https://doi.org/10.1023/A:1007577916868 \
 [2] Comber https://doi.org/10.3389/fsufs.2019.00042 \
-[3] Brus https://doi.org/10.1016/j.geoderma.2018.07.036 \\
-[4] Fuentes-Santos https://doi.org/10.1080/03610918.2021.1901118 \\
+[3] Brus https://doi.org/10.1016/j.geoderma.2018.07.036 \
+[4] Fuentes-Santos https://doi.org/10.1080/03610918.2021.1901118 \
