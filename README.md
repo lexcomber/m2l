@@ -11,7 +11,7 @@ A scale-sensitive evaluation function calculates the OKIV from the environmental
 The method will be evaluated using point process methodologies [see 4] to compare the optimal sample configurations generated from underlying environmental gradients (ie independent of measurement) with those generated from North Wyke Farm Platform (NWFP) measured data. The NWFP has 3 instrumented farms, in situ sensors and detailed,. extensive soil process datasets. Evaluations will incorporate different sample sizes, measured and simulated data conditioned by measured data. 
 
 ## References
-[1] Yamamoto https://doi.org/10.1023/A:1007577916868
-[2] Comber https://doi.org/10.3389/fsufs.2019.00042
-[3] Brus https://doi.org/10.1016/j.geoderma.2018.07.036
-[4] Fuentes-Santos https://doi.org/10.1080/03610918.2021.1901118
+[1] Yamamoto https://doi.org/10.1023/A:1007577916868 \\
+[2] Comber https://doi.org/10.3389/fsufs.2019.00042 \\
+[3] Brus https://doi.org/10.1016/j.geoderma.2018.07.036 \\
+[4] Fuentes-Santos https://doi.org/10.1080/03610918.2021.1901118 \\
