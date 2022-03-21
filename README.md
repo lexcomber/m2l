@@ -1,5 +1,16 @@
 # GeoSensor network optimisation and evaluation tool to support decisions at multiple scales
-Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022)
+
+Alexis Comber<sup>1*</sup>, Peter Atkinson<sup>2</sup>, Chris Brunsdon<sup>3</sup> Martin Callghan<sup>4</sup> and Paul Harris<sup>5</sup>
+
+<sup>1</sup> School of Geography, University of Leeds, Leeds, UK\
+<sup>2</sup> Faculty of Science and Technology, Lancaster University, UK\
+<sup>3</sup> National Centre for Geocomputation, Maynooth University, Ireland\
+<sup>4</sup> Research Software Engineering, University of Leeds, UK\
+<sup>5</sup> Sustainable Agriculture Sciences North Wyke, Rothamsted Research, Okehampton, UK.
+
+<sup>*</sup> contact author: a.comber@leeds.ac.uk
+
+(Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022))
 
 ## Summary
 This project proposes a process agnostic, parsimonious approach to sample design. Sample suitability and configurations are evaluated using locally adapted ordinary kriging with an interpolation variance (OKIV) [1], where local variance provides a measure of the value of sampling at potential locations. Previous work has shown that detailed process model outputs can be approximated by underlying environmental gradients [2] and error (kriged variance) for a given soil process at sample locations can be approximated from underlying environmental gradients (slope and soil permeability).
@@ -10,8 +21,13 @@ A scale-sensitive evaluation function calculates the OKIV from the environmental
 
 The method will be evaluated using point process methodologies [see 4] to compare the optimal sample configurations generated from underlying environmental gradients (ie independent of measurement) with those generated from North Wyke Farm Platform (NWFP) measured data. The NWFP has 3 instrumented farms, in situ sensors and detailed,. extensive soil process datasets. Evaluations will incorporate different sample sizes, measured and simulated data conditioned by measured data. 
 
-## References
+### References
 [1] Yamamoto https://doi.org/10.1023/A:1007577916868 \
 [2] Comber https://doi.org/10.3389/fsufs.2019.00042 \
 [3] Brus https://doi.org/10.1016/j.geoderma.2018.07.036 \
 [4] Fuentes-Santos https://doi.org/10.1080/03610918.2021.1901118 \
+
+## To run the code
+To run the analysis in this paper you should download the the R script `cfs_code.R` and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available . The code recreates the results as the same sequence as in the proposal.
+
+If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
