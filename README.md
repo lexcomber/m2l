@@ -1,5 +1,5 @@
 # GeoSensor network optimisation and evaluation tool to support decisions at multiple scales
-Code and Data supporting the Molecules to landscape proposal (March 2022)
+Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022)
 
 ## Summary
 This project proposes a process agnostic, parsimonious approach to sample design. Sample suitability and configurations are evaluated using locally adapted ordinary kriging with an interpolation variance (OKIV) [1], where local variance provides a measure of the value of sampling at potential locations. Previous work has shown that detailed process model outputs can be approximated by underlying environmental gradients [2] and error (kriged variance) for a given soil process at sample locations can be approximated from underlying environmental gradients (slope and soil permeability).
