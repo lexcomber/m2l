@@ -10,7 +10,7 @@ Alexis Comber<sup>1*</sup>, Peter Atkinson<sup>2</sup>, Chris Brunsdon<sup>3</su
 
 <sup>*</sup> contact author: a.comber@leeds.ac.uk
 
-(Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022))
+Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022).
 
 ## Summary
 This project proposes a process agnostic, parsimonious approach to sample design. Sample configurations are evaluated using estimated prediction variance (EPV), a Gaussian Process (GP) model [1]. EPV provides a measure of the benefit of sampling at any potential location. Previous research has shown that processes can be approximated by underlying environmental gradients [2]. EPV is conditional on only the sample design and freely available environmental data, not measurements of the process. Crucially, this method circumvents the need for large sample sizes of the process to define the GP, which has hindered the take-up of model-based sample designs in agriculture.
