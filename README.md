@@ -1,4 +1,4 @@
-# GeoSensor network optimisation and evaluation tool to support decisions at multiple scales
+# GeoSensor network optimisation without measurement to support decisions at multiple scales
 
 Alexis Comber<sup>1*</sup>, Peter Atkinson<sup>2</sup>, Chris Brunsdon<sup>3</sup> Martin Callghan<sup>4</sup> and Paul Harris<sup>5</sup>
 
