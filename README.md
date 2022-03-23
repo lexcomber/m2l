@@ -12,7 +12,7 @@ Alexis Comber<sup>1*</sup>, Peter Atkinson<sup>2</sup>, Chris Brunsdon<sup>3</su
 
 Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022). It undertales an optimisation of geosample locations using an example case study.
 
-![](fig1.png)
+![](fig1.png)\
 Figure 1. An environmental gradient, the EPV surface, optimal location of seven new sensors with 7 existing, and optimal location of 7 new sensors without any existing.
 
 ## Summary
