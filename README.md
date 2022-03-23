@@ -31,7 +31,7 @@ The method will be evaluated using point process methods [4] to compare the opti
 [4] Fuentes-Santos https://doi.org/10.1080/03610918.2021.1901118 \
 
 ## To run the code
-To run the analysis in this paper you should download the the R script `m2l_cfs_code.R` and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available. The code recreates the figure as the same sequence as in the proposal, although note the search may generate slightly different results ude to is random seeding.
+To run the analysis in this paper you should download the the R script `m2l_cfs_code.R` and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available. The code recreates the figure as the same sequence as in the proposal, although note that the search may generate slightly different results due to its random seeding.
 
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
 
