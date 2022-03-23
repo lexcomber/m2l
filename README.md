@@ -12,7 +12,7 @@ Alexis Comber<sup>1*</sup>, Peter Atkinson<sup>2</sup>, Chris Brunsdon<sup>3</su
 
 Code and Data supporting the proposal to the BBSRC Molecules to Landscape call (March 2022). It undertales an optimisation of geosample locations using an example case study.
 
-```{r}
+```{r echo = F}
 ![alt text here](fig1.png)
 ```
 ## Summary
